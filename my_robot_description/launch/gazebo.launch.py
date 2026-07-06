@@ -36,7 +36,6 @@ def generate_launch_description():
         Command([
             "xacro ",
             xacro_file,
-            f" mesh_path:=file://{meshes_path}/"
         ]),
         value_type=str
     )
