@@ -24,7 +24,7 @@ if(BUILD_TESTING)
 endif()
 
 install(
-  DIRECTORY launch config map
+  DIRECTORY launch config map posegraph
   DESTINATION share/${PROJECT_NAME}
 )
 
