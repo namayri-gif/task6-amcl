@@ -5,16 +5,15 @@ This assignment builds on the differential-drive robot from Assignment 4 and add
 Using the robot's `/scan` (LiDAR) and `/odom` data, `slam_toolbox` builds a 2D occupancy grid map of the `turtlebot3_world` environment in **mapping mode**, saves that map + pose graph, and then reuses them in **localization mode** to localize the robot against the pre-built map.
 
 This assignment covers: running SLAM Toolbox in online async mapping mode, saving a map and serialized pose graph, and running SLAM Toolbox in localization mode against that saved map.
+I will be using the same robot built in the previous task in my simulation. 
 
 ---
 
-## Objective
-By the end of this task, you should have:
+## What I learned
 
-* The robot from Assignment 4 driving around `turtlebot3_world` via teleop
-* `slam_toolbox` (async mode) building a live occupancy grid map from `/scan` + `/odom` + `/tf`
-* A saved map (`.pgm` + `.yaml`) and serialized pose graph (`.posegraph` + `.data`)
-* `slam_toolbox` in **localization mode**, loading the saved map/pose graph and localizing the robot without rebuilding the map
+* The uses of `slam_toolbox`, its importance, and implementations
+* How to use SLAM mapping to map a world using the robot
+* How to use SLAM **localization** to know where the robot is after mapping a world
 * Map and robot pose visualized in RViz
 
 ---
