@@ -198,18 +198,28 @@ map
 
 Mapping in progress (RViz):
 
-
+<img width="1046" height="722" alt="image" src="https://github.com/user-attachments/assets/c7174086-d836-4333-8684-487b0d725598" />
 
 Final saved map:
 
-`<screenshot>`
+<img width="1215" height="761" alt="Screenshot 2026-07-06 160238" src="https://github.com/user-attachments/assets/85236d50-3d12-4546-98c9-4ea1f5217f80" />
 
 Localization mode — robot on pre-built map:
 
-`<screenshot>`
+<img width="1046" height="722" alt="Screenshot 2026-07-06 160304" src="https://github.com/user-attachments/assets/23a3dcdd-8fe3-4fed-8462-5ac9c30e23b6" />
+
+Final Tf tree:
+
+<img width="1304" height="712" alt="Screenshot 2026-07-06 160251" src="https://github.com/user-attachments/assets/e3f22ad2-fb3d-4e01-ada6-820efa0d0ffc" />
 
 Demo Video Link:
 
-`<link>`
+https://github.com/user-attachments/assets/32c949a3-7fac-49f8-857b-ffbc316743cb
+
+
+https://github.com/user-attachments/assets/ebdf179a-8206-4323-bf4c-7aab54b9715e
+
+
+
 
 ---
