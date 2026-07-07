@@ -197,7 +197,7 @@ map
 
 Mapping in progress (RViz):
 
-<img width="1046" height="722" alt="image" src="https://github.com/user-attachments/assets/c7174086-d836-4333-8684-487b0d725598" />
+<img width="756" height="497" alt="Screenshot 2026-07-06 160226" src="https://github.com/user-attachments/assets/8a54aed0-9fec-4129-a4e8-a1f6565fa528" />
 
 Final saved map:
 
